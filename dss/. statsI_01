@@ -1,0 +1,27 @@
+### Probability Mass Function (PMF): 
+A probability mass function evaluated at a value corresponds to the probability that a random variable takes that value.
+
+### Probability Density Function (PDF): 
+pdf (density function) is used to calculate the probability that a random variable V has a value within a certain range and in the limit 
+of the range going to zero gives the probability that the random variable V has a certain value x. Mathematically, the area under the pdf 
+curve over a range dx, gives the probability of the random variable V having a value within dx of x pdf is the derivative of the cumulative
+distribution function, the cdf [1](https://www.quora.com/What-is-the-physical-significance-of-the-probability-density-function)
+
+
+### Cumulative Distribution Function (CDF):
+In probability theory and statistics, the cumulative distribution function (CDF) of a real-valued random variable X, or just distribution
+function of X, evaluated at x, is the probability that X will take a value less than or equal to x.
+In the case of a continuous distribution, it gives the area under the probability density function from minus infinity to x. Cumulative 
+distribution functions are also used to specify the distribution of multivariate random variables.
+
+### Survival Function (SF):
+The survival function is the probability that a patient, device, or other object of interest will survive beyond a specified time.
+The survival function is also known as the survivor function or reliability function.
+The term reliability function is common in engineering while the term survival function is used in a broader range of applications, 
+including human mortality. Another name for the survival function is the complementary cumulative distribution function.
+
+Let T be a continuous random variable with cumulative distribution function F(t) on the interval [0,∞). Its survival function or 
+reliability function is:
+
+Inline-style: 
+![alt text](https://github.com/VarData/sm_ds/blob/master/dss/images/SF.JPG "sf fromula")
