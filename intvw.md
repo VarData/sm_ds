@@ -4,3 +4,6 @@
 4. How to select feature? What was the reason behind selecting experience range as feature.
 5. PCA, Dimensionality reduction.
 6. Which model did you built (Decision Tree, Logistic Regression, Random Forrest.
+
+
+7. What are some imputing algorithms to replace missing values from data set?
