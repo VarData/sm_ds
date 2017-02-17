@@ -1,3 +1,8 @@
+### Lemmetizer
+### Tokenizer
+
+
+
 ### What is POS Tagger?
 1. http://cs.stackexchange.com/questions/14037/word-classification-algorithms/27857#27857
 2. http://www.cs.umd.edu/~nau/cmsc421/part-of-speech-tagging.pdf
@@ -42,3 +47,4 @@ See below for a simple example.
 
 ### Example:
 Consider a document containing 100 words wherein the word cat appears 3 times. The term frequency (i.e., tf) for cat is then (3 / 100) = 0.03. Now, assume we have 10 million documents and the word cat appears in one thousand of these. Then, the inverse document frequency (i.e., idf) is calculated as log(10,000,000 / 1,000) = 4. Thus, the Tf-idf weight is the product of these quantities: 0.03 * 4 = 0.12.
+
