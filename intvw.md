@@ -12,9 +12,10 @@
 
 ## Stats:-
 1. Why not absolute value in variance?
-http://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia
-The benefits of squaring include:
 
+http://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia
+
+### The benefits of squaring include:
 2. Squaring always gives a positive value, so the sum will not be zero.
 3. Squaring emphasizes larger differences - a feature that turns out to be both good and bad (think of the effect outliers have).
 
