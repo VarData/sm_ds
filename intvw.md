@@ -15,6 +15,10 @@
 
 http://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia
 
+The population variance is the sum of the squared deviations of all of the values in the population divided by the number of values in the population. When we are estimating the variance of a population from a sample, though, we encounter the problem that the deviations of the sample values from the mean of the sample are, on average, a little less than the deviations of those sample values from the (unknown) true population mean. That results in a variance calculated from the sample being a little less than the true population variance. Using an n-1 divisor instead of n corrects for that underestimation.
+
+http://stats.stackexchange.com/questions/17890/what-is-the-difference-between-n-and-n-1-in-calculating-population-variance
+
 ### The benefits of squaring include:
 2. Squaring always gives a positive value, so the sum will not be zero.
 3. Squaring emphasizes larger differences - a feature that turns out to be both good and bad (think of the effect outliers have).
