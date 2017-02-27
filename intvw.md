@@ -30,5 +30,5 @@ http://stats.stackexchange.com/questions/17890/what-is-the-difference-between-n-
 
 
 https://www.otexts.org/fpp/6/1
-
+https://people.duke.edu/~rnau/411diff.htm
 Time series forecasting with ARIMA, and default parameters.
