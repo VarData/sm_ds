@@ -28,3 +28,7 @@ http://stats.stackexchange.com/questions/17890/what-is-the-difference-between-n-
 4. Why divide by n-1 to variance?
 5. What is trimmed mean and why to use it?
 
+
+https://www.otexts.org/fpp/6/1
+
+Time series forecasting with ARIMA, and default parameters.
